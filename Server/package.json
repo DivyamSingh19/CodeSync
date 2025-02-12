@@ -5,10 +5,12 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
+    "monaco-editor": "^0.52.2",
     "mongodb": "^6.13.0",
     "mongoose": "^8.9.5",
     "nodemon": "^3.1.9",
     "toastify": "^2.0.1",
+    "validator": "^13.12.0",
     "webrtc": "^1.14.1",
     "winston": "^3.17.0",
     "winston-daily-rotate-file": "^5.0.0"
